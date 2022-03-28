@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SendMessage</string>
+    <string name="phone_number">Phone number</string>
+    <string name="title_message">Send whatsapp message</string>
+</resources>
